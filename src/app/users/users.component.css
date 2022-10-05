@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 h1, h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
+
 img {
   width: 100%;
   border-radius: 10px;
@@ -16,4 +16,4 @@ main {
   row-gap: 30px;
   padding-left: 40%;
   padding-right: 40%;
-}
+}/*# sourceMappingURL=users.component.css.map */

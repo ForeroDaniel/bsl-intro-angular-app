@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./users.component.scss']
 })
 export class UsersComponent implements OnInit {
+img = 'https://thecatapi.com/api/images/get?format=src&type=gif'
 
   constructor() { }
 
